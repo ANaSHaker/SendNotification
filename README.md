@@ -1,2 +1,2 @@
 # SendNotification
- Flutter package to send notification from the app itself
+ Flutter App to send notification from the app itself
