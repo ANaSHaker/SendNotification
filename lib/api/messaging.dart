@@ -9,7 +9,7 @@ class Messaging {
   // from 'https://console.firebase.google.com'
   // --> project settings --> cloud messaging --> "Server key"
   static const String serverKey =
-      'AAAAdY3R18Y:APA91bFHDnI_MuovoGN7tJRx2vZhO3C3yGzLbUJ5hkqkRivv117a43hYOUEOzN0YR5zfKy_fX5ZtetJ6WxaB4VQasaDopCztDabTrlqqINscnAndYyU3VdAsEy62rkRQWOpC6LlsSdMh';
+      'Paste your server api key here';
 
 
 
